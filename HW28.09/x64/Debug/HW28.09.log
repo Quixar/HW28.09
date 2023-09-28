@@ -1,0 +1,4 @@
+﻿  HW28.09.cpp
+C:\Users\Quixar\source\repos\HW28.09\HW28.09.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Quixar\source\repos\HW28.09\HW28.09.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HW28.09.vcxproj -> C:\Users\Quixar\source\repos\HW28.09\x64\Debug\HW28.09.exe
